@@ -1,6 +1,7 @@
 # nocodeine osu! cheat
 
-<img width="1408" height="768" alt="(nocodeine)" src="https://github.com/user-attachments/assets/b9dd7f39-325d-4f2e-bc2e-29bb67eb2d40" />
+<img width="1408" height="768" alt="(nocodeinebgremoved)" src="https://github.com/user-attachments/assets/bd27393c-da5e-45b3-af07-6a642c4fb83b" />
+
 
 
 > [!WARNING]
